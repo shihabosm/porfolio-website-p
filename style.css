@@ -20,6 +20,7 @@ nav{
 font-size: 45px;
 
 font-weight: 800;
+margin: 0 200px;
 
 
 }
@@ -45,4 +46,18 @@ font-size: 20px;
 font-style: normal;
 padding: 18px 35px;
 }
+/* header relatede styles */
+.hearder{
+    background-color: #FFF8F3;
+}
 
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 584px;
+height: 676px;
+flex-shrink: 0;
+}
