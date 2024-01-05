@@ -163,3 +163,52 @@ font-size: 30px;
 font-weight: 700;
 
         }
+.resume-column-title{
+    color:  #474747;
+
+font-size: 30px;
+
+font-weight: 700;
+margin-bottom: 10px;
+
+}
+
+.resume-continer{
+    display: flex;
+    gap: 70px;
+}
+.resume-item-inistitute{
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.info-description,.resume-item-inistitute{
+    color:  #757575;
+
+font-size: 16px;
+
+font-weight: 400;
+line-height: 28px; /* 175% */
+
+}
+.resume-item-title{
+    color: var(--Dark-02, #474747);
+;
+font-size: 25px;
+
+font-weight: 700;
+
+}
+.resume-continer{
+    margin: 30px ;
+}
+
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
