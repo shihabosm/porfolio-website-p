@@ -98,11 +98,22 @@ flex-shrink: 0;
     font-weight: 700;
 }
 /* main section styles */
-
+main{
+    max-width: 1140px;
+    max-height: 550px;
+    margin: auto;
+}
 /* about section style */
 .about{
     padding: 130px;
     border-radius: 10px;
 background: #FFF8F3;
 margin: 130px 0;
+}
+.about-info-con{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
